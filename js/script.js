@@ -12,7 +12,7 @@ frm.addEventListener("submit", (e) => {
     const nota2 = Number(frm.inNota2.value)
     const media = (nota1 + nota2) / 2
 
-    resp1.innerText = `A sua méida é : ${media.toFixed(2)}`
+    resp1.innerText = `A sua média é : ${media.toFixed(2)}`
 
 
     if (media >= 7) {
