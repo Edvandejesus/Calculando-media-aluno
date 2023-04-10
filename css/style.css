@@ -23,8 +23,9 @@ form {
     align-items: center;
     flex-direction: column;
     width: 410px;
-    background-color: rgba(1, 1, 22, 0.693);
+    background-color: rgba(1, 1, 22, 0.759);
     border-radius: 5px;
+   
 }
 
 p {
@@ -42,6 +43,7 @@ input {
     outline: none;
     border-radius: 3px;
     margin-top: 10px;
+
 }
 
 .btn {
@@ -62,7 +64,7 @@ input {
 
 h3 {
     color: orange;
-    font-size: 15px;
+    font-size: 16px;
 }
 
 h4 {
